@@ -1,6 +1,10 @@
 # Introduction
 
-# Chapter 1:
+# Chapter 1: General Promotion
+### Mass Marketing
+### Web and Internet
+### Announcements
+### Avent-Related Campaigns
 
 # Chapter 2:
 
