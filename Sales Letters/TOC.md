@@ -4,7 +4,8 @@
 ### Mass Marketing
 ### Web and Internet
 ### Announcements
-Sale or promotion (Car sale) 
+Sale or promotion (Car sale)
+
 Sale or promotion (Outsourcing) 
 Sale or promotion (Ski shop)
 Sale or promotion (Film)
