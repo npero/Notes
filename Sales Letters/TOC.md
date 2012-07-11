@@ -2,24 +2,24 @@
 
 # Chapter 1: General Promotion
 ### Mass Marketing
-Announcing new product
-Announcing new service
-Brocure and catalog cover letters
-Promotion response forms
-Promotions--bonuses
-Promotions--coupons
-Promotions--events
-Promotions--intro offers
-Reminders of end of promotion or sale
-Selling company's image or feature
-Selling existing product
-Selling existing service
-### Web and Internet
-Announcing new Web site
-Ask Web customers to revisit
-Changes in Web site
-Encourage customers to order over Web
-Web letters about Web site
+Announcing new product  
+Announcing new service  
+Brocure and catalog cover letters  
+Promotion response forms  
+Promotions--bonuses  
+Promotions--coupons  
+Promotions--events  
+Promotions--intro offers  
+Reminders of end of promotion or sale  
+Selling company's image or feature  
+Selling existing product  
+Selling existing service  
+### Web and Internet  
+Announcing new Web site  
+Ask Web customers to revisit  
+Changes in Web site  
+Encourage customers to order over Web  
+Web letters about Web site  
 ### Announcements
 Sale or promotion (Car sale)  
 Sale or promotion (Outsourcing)  
