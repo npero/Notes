@@ -35,12 +35,12 @@ New or expanded catalog (Cookware)
 Corrections (Artwork)  
 Corrections (Generic)  
 ### Event-Related Campaigns
-1st preshow from organizer
-1st preshow from vendor
-2nd preshow from organizer
-2nd preshow from vendor
-Follow-up from organizer
-Follow-up from vendor
+1st preshow from organizer  
+1st preshow from vendor  
+2nd preshow from organizer  
+2nd preshow from vendor  
+Follow-up from organizer  
+Follow-up from vendor  
 # Chapter 2: Current and Former Customers
 ### Announcements
 ### Changes at Client
@@ -73,5 +73,5 @@ Follow-up from vendor
 ### Involve Customers in Product Development
 ### Surveys and Questionnaires
 # Chapter 7: Distributors
-Commmunications with distributors (New product)
-Commmunications with distributors (Partnerships)
+Commmunications with distributors (New product)  
+Commmunications with distributors (Partnerships)  
