@@ -1,0 +1,6 @@
+
+Use CamelCasing for faster navigation
+ 
+
+JDeveloper now recognize the use of CamelCasing in various places like the code insight and go to class options. For example, to go to the NullPointerException you can just type NuPE
+
