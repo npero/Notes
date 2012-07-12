@@ -1,0 +1,6 @@
+
+Adding favorites to the component palette
+ 
+
+In the component palette there is always a page called "My Components." This page is divided into two sections: Favorites and Recently Used. You can add to the Favorites section by right-clicking on a component in one of the normal palette pages and choosing Add to Favorites. You can even create sub-sections within Favorites by right-clicking in the Favorites area and choosing New Section. 
+
