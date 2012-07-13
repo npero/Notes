@@ -1,0 +1,6 @@
+
+Code peek
+ 
+
+While editing source code, hold down Ctrl+1 and hover the mouse over an identifier. When you do, a popup bubble appears showing the code where the identifier is declared. This also works from the Structure pane. Similarly, you can hold down Ctrl while over the file overview margin to see a snippet of the code from elsewhere in the current file.
+
