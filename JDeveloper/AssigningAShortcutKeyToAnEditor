@@ -1,0 +1,7 @@
+Assigning shortcut key to an editor
+
+When working on your project, you may find yourself spending a lot of time switching back and forth between 
+a handful of files in your project. In this case, you may want to consider assigning shortcut keys to those
+editors for faster access. With an editor tab selected, choose Alt+Shift+n(where n is a number 1-9) to assign
+a shortcut key. Now, you can press Alt+n to activate that editor. This remains in effect only as long as the
+editor is open.
