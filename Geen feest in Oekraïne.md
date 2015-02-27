@@ -1,5 +1,5 @@
 De hoofdstad van Oekraïne, kiev, herdacht de revolutie van 2014.
-Een jaar geleden verdreef de Maidan-revolutie president Janoekovitsj van de macht. 
+Een jaar geleden verdreef de Maidan-revolutie president Janoekovitsj van de macht.
 De verjaardag is geen reden voor feest. Oekraïne heeft grote problemen in het Oosten van het land.
 
 Duizenden mensen kwamen samen op het Maidan plein in Kiev. Ze eerden de slachtoffers van de revolutie.
